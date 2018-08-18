@@ -18,7 +18,7 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Effective Altruism: Duke"
+  title = "EA: Duke"
   weight = 1
   languageCode = "en"
 
