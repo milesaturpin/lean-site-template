@@ -1,7 +1,7 @@
 # baseURL should be
 # "https://YOUR-GITHUB-USERNAME.github.io/lean-site-template/" during development,
 # and "your-ea-domain.org/" after your domain has been set up.
-baseURL = "https://rtcharity.github.io/lean-site-template/"
+baseURL = "https://milesaturpin.github.io/lean-site-template/"
 theme = "local-ea-template"
 canonifyURLs = true
 
@@ -18,20 +18,20 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Local EA Website"
+  title = "Effective Altruism: Duke"
   weight = 1
   languageCode = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Site Title"
-  strapline = "Helping you do good better"
+  fullTitle = "Effective Altruism: Duke"
+  strapline = "Bringing together Duke students who want to change the world."
 
   [Languages.en.groupinfo]
   ## -- EA GROUP INFO -- ##
-  legalOrgName = "Effective Altruism <City Here>"
-  orgLocations = "this location and that location"
-  contactEmail = "yourEAGroupEmail@here.com"
+  legalOrgName = "Effective Altruism: Duke"
+  orgLocations = "Durham, North Carolina, USA"
+  contactEmail = "effective.altruism.duke@gmail.com"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
@@ -55,7 +55,7 @@ DefaultContentLanguage = "en"
   [Languages.en.homepage]
    ## -- HOMEPAGE -- ##
   topBannerText = "Who are we?"
-  leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
+  leadText = "We're Duke undergraduates and graduates who want to help you answer the question: how can I do good better?"
   firstSectionHeader = "Doing good better"
   secondSectionHeader = "Building a community"
   thirdSectionHeader = "Finding better ways to help"
@@ -74,9 +74,9 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "First Button Text"
-  firstButtonLink = ""
-  secondButtonText = "Second Button Text"
+  firstButtonText = "Join our mailing list!"
+  firstButtonLink = "http://eepurl.com/cecM01"
+  secondButtonText = "Arete Fellowship"
   secondButtonLink = ""
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
@@ -85,6 +85,6 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = ""
-  twitterUrl = ""
-  meetupUrl = ""
+  facebookUrl = "https://www.facebook.com/effective.altruism.duke/"
+  # twitterUrl = ""
+  # meetupUrl = ""
