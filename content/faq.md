@@ -4,7 +4,7 @@ date: 2017-12-27T02:15:52-08:00
 draft: false
 ---
 
-![image](/static/img/cover-photo-gradient.png)
+![image](/cover-photo-gradient.png)
 
 ## Arete Fellowship
 <br>
