@@ -4,7 +4,7 @@ date: 2017-12-27T02:15:52-08:00
 draft: false
 ---
 
-![image](../static/img/cover-photo-gradient.png "Arete Fellowship")
+![image](/static/img/cover-photo-gradient.png "Arete Fellowship")
 
 ## Arete Fellowship
 <br>
@@ -50,9 +50,9 @@ The Fellowship takes place over the course of 9 weeks. Each week consists of a s
 ----------------
 
 We expect fellows to embody these four traits:
-- *Enthusiasm to do good better*
-- *Openness to novel ideas*
-- *A scientific mindset*
+- *Enthusiasm to do good better*  
+- *Openness to novel ideas*  
+- *A scientific mindset*  
 - *Action orientation*
 
 A central part of the EA mindset is taking seriously ideas that may seem counterintuitive or even uncomfortable. Some of the most exciting opportunities to do good exist precisely because they are not mainstream and remain unexploited. As such, fellows should expect to have their beliefs and plans challenged.
@@ -76,25 +76,16 @@ Fellows may list the Fellowship on their résumé or CV, and are invited to join
 
 The Fellowship takes place over 9 weeks. Weeks 1-7 have a set curriculum, week 8 is a discussion of Fellow-submitted topics, and our ninth and final week will be graduation and debrief.
 
-1. EA-daimonia: An Introduction to Effective Altruism
-
-2. The Science of Doing Good
-
-3. Cause Evaluation
-
-4. Causes I: Global Poverty, Global Health & Animal Welfare
-
-5. Causes II: Movement-Building & Climate Change
-
-6. Causes III: The Far Future & Existential/Global Catastrophic Risks
-
-7. Those 80,000 Hours...
-
-8. Fellow-Chosen Topics
-
+1. EA-daimonia: An Introduction to Effective Altruism  
+2. The Science of Doing Good  
+3. Cause Evaluation  
+4. Causes I: Global Poverty, Global Health & Animal Welfare  
+5. Causes II: Movement-Building & Climate Change  
+6. Causes III: The Far Future & Existential/Global Catastrophic Risks  
+7. Those 80,000 Hours...  
+8. Fellow-Chosen Topics  
 9. Graduation & Debrief
 
-### Application
----------------
+<br>
 
-##### [Begin Here](https://docs.google.com/forms/d/e/1FAIpQLScbIiAJEvWZEbUa3k1K8_U5v_fxHosIzSQ1QQIJ0E030HAS2g/viewform?usp=sf_link)
+##### [Begin Application](https://docs.google.com/forms/d/e/1FAIpQLScbIiAJEvWZEbUa3k1K8_U5v_fxHosIzSQ1QQIJ0E030HAS2g/viewform?usp=sf_link)
