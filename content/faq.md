@@ -6,7 +6,7 @@ draft: false
 
 ![image](/img/cover-photo-gradient.png)
 
-blub
+<br>
 
 ## Arete Fellowship
 <br>
