@@ -4,11 +4,8 @@ date: 2017-12-27T02:15:52-08:00
 draft: false
 ---
 
-![image](/img/cover-photo-gradient.png)
+![image](/img/color_logo_with_background.png)
 
-<br>
-
-## Arete Fellowship
 <br>
 
 ### Introduction
