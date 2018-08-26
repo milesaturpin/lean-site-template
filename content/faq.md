@@ -4,7 +4,7 @@ date: 2017-12-27T02:15:52-08:00
 draft: false
 ---
 
-![image](/static/cover-photo-gradient.png)
+![image](/static/img/cover-photo-gradient.png)
 
 ## Arete Fellowship
 <br>
@@ -58,7 +58,7 @@ We expect fellows to embody these four traits:
 
 A central part of the EA mindset is taking seriously ideas that may seem counterintuitive or even uncomfortable. Some of the most exciting opportunities to do good exist precisely because they are not mainstream and remain unexploited. As such, fellows should expect to have their beliefs and plans challenged.
 
-During the Fellowship we will cover a wide range of fields and methodologies. No subject knowledge is required — the program is designed to be self-contained, so fellows should not worry if they are not familiar with, say, philosophy, economics, synthetic biology, or artificial intelligence. EA is cerebral in some ways, but this Fellowship is not just a fun intellectual exercise — we hope fellows will be eager to incorporate these ideas into their daily lives and long-term plans. 
+During the Fellowship we will cover a wide range of fields and methodologies. No subject knowledge is required—the program is designed to be self-contained, so fellows should not worry if they are not familiar with, say, philosophy, economics, synthetic biology, or artificial intelligence. EA is cerebral in some ways, but this Fellowship is not just a fun intellectual exercise—we hope fellows will be eager to incorporate these ideas into their daily lives and long-term plans. 
 
 Duke EA’s limited resources include time; we expect Fellows to make the most of it. Participants should treat the Fellowship like a house course with one hour of homework and an hour and a half of “class-time” per week. To complete the Fellowship, fellows must also write a 400-500 word blog post for Duke Effective Altruism on a topic of their choice.
 
@@ -89,6 +89,8 @@ The Fellowship takes place over 9 weeks. Weeks 1-7 have a set curriculum, week 8
 
 <br>
 
-## [Begin Application](https://docs.google.com/forms/d/e/1FAIpQLScbIiAJEvWZEbUa3k1K8_U5v_fxHosIzSQ1QQIJ0E030HAS2g/viewform?usp=sf_link)
+## [**Begin Application**](https://docs.google.com/forms/d/e/1FAIpQLScbIiAJEvWZEbUa3k1K8_U5v_fxHosIzSQ1QQIJ0E030HAS2g/viewform?usp=sf_link)
+
+<br>
 
 ---
