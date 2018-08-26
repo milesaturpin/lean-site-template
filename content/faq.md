@@ -4,7 +4,7 @@ date: 2017-12-27T02:15:52-08:00
 draft: false
 ---
 
-![image](/static/img/cover-photo-gradient.png "Arete Fellowship")
+![image](/static/img/cover-photo-gradient.png)
 
 ## Arete Fellowship
 <br>
@@ -49,7 +49,8 @@ The Fellowship takes place over the course of 9 weeks. Each week consists of a s
 ### Expectations
 ----------------
 
-We expect fellows to embody these four traits:
+We expect fellows to embody these four traits:  
+
 - *Enthusiasm to do good better*  
 - *Openness to novel ideas*  
 - *A scientific mindset*  
