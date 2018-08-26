@@ -4,7 +4,7 @@ date: 2017-12-27T02:15:52-08:00
 draft: false
 ---
 
-![image](/static/img/cover-photo-gradient.png)
+![image](/static/cover-photo-gradient.png)
 
 ## Arete Fellowship
 <br>
@@ -89,4 +89,6 @@ The Fellowship takes place over 9 weeks. Weeks 1-7 have a set curriculum, week 8
 
 <br>
 
-##### [Begin Application](https://docs.google.com/forms/d/e/1FAIpQLScbIiAJEvWZEbUa3k1K8_U5v_fxHosIzSQ1QQIJ0E030HAS2g/viewform?usp=sf_link)
+## [Begin Application](https://docs.google.com/forms/d/e/1FAIpQLScbIiAJEvWZEbUa3k1K8_U5v_fxHosIzSQ1QQIJ0E030HAS2g/viewform?usp=sf_link)
+
+---
