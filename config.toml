@@ -1,7 +1,8 @@
 # baseURL should be
 # "https://YOUR-GITHUB-USERNAME.github.io/lean-site-template/" during development,
 # and "your-ea-domain.org/" after your domain has been set up.
-baseURL = "https://milesaturpin.github.io/lean-site-template/"
+# baseURL = "https://milesaturpin.github.io/lean-site-template/"
+baseURL = "https://eaduke.org/"
 theme = "local-ea-template"
 canonifyURLs = true
 
@@ -77,8 +78,8 @@ DefaultContentLanguage = "en"
   # Make sure the links start with http:// or https://
   firstButtonText = "Join our mailing list!"
   firstButtonLink = "http://eepurl.com/cecM01"
-  secondButtonText = "Arete Fellowship"
-  secondButtonLink = ""
+  secondButtonText = "Arete Fellowship Application"
+  secondButtonLink = "https://goo.gl/forms/ijXg1cXZEpVLV5He2"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
