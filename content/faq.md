@@ -38,11 +38,11 @@ The organizers of Duke EA are majoring and minoring in computer science, biology
 ### Fellowship Structure
 ------------------------
 
-The Fellowship takes place over the course of 9 weeks. Each week consists of a set of study resources and a meeting. The resources take approximately one hour to complete and must be finished in preparation for the weekly discussion. Additionally, Fellows will be able to schedule a time for 1-on-1 career consulting anytime after week 3, though such consultation may be most valuable after week 7. All of this is flexible.
+The Fellowship takes place over the course of 9 weeks. Each week consists of a set of study resources and a lunch meeting. The resources take approximately one hour to complete and must be finished in preparation for the weekly discussion. Additionally, Fellows will be able to schedule a time for 1-on-1 career consulting anytime after week 3, though such consultation may be most valuable after week 7. All of this is flexible.
  
-##### **Time: Saturdays @5**
+##### **Time: Saturdays @12:30pm - 2:00pm**
 
-##### **Location: TBD**
+##### **Location: West Union (Brodhead Center)**
 <br>
 
 ### Expectations
@@ -86,9 +86,16 @@ The Fellowship takes place over 9 weeks. Weeks 1-7 have a set curriculum, week 8
 8. Fellow-Chosen Topics  
 9. Graduation & Debrief
 
-<br>
+### Application Timeline
+------------------------
 
-## [**Begin Application**](https://docs.google.com/forms/d/e/1FAIpQLScbIiAJEvWZEbUa3k1K8_U5v_fxHosIzSQ1QQIJ0E030HAS2g/viewform?usp=sf_link)
+All applicants must complete an application and, if selected, an interview.
+
+#### Application Opening: **Wednesday, August 29th**  
+#### Application Priority Deadline: **Wednesday, September 5th**  
+#### Hard Deadline: **Saturday, September 8th**
+
+Interviews will be rolling with all ending on **Friday, September 14th**. The first meeting will be **Saturday, September 15th**.
 
 <br>
 
