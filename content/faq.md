@@ -115,7 +115,7 @@ All applicants must complete an application and, if selected, an interview. Inte
 ##### **Saturday, September 22nd — First Discussion Meeting**  
 <br>
 
-Check back here on August 29th for a link to the application.
+Check back here on August 29th for a link to the application, or [**put down your email**](http://eepurl.com/dFilSD) and we'll let you know when it's live!
 <br>
 
 ---
