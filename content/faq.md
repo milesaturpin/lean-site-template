@@ -95,11 +95,11 @@ All applicants must complete an application and, if selected, an interview. Inte
 
 
 
-##### **Friday, September 1st — Info Session I (4:30PM in Carr 106)**
+##### **Friday, September 1st — Info Session I (5pm in Carr 106)**
 
 
 
-##### **Saturday, September 2nd — Info Session II (4:30PM in Carr 106)** 
+##### **Saturday, September 2nd — Info Session II (5pm in Carr 106)** 
 
 
 
