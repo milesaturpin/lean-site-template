@@ -86,16 +86,30 @@ The Fellowship takes place over 9 weeks. Weeks 1-7 have a set curriculum, week 8
 8. Fellow-Chosen Topics  
 9. Graduation & Debrief
 
-### Application Timeline
+### Timeline
 ------------------------
 
-All applicants must complete an application and, if selected, an interview.
+All applicants must complete an application and, if selected, an interview. Interviews and admission will be rolling. 
 
-#### Application Opening: **Wednesday, August 29th**  
-#### Application Priority Deadline: **Wednesday, September 5th**  
-#### Hard Deadline: **Saturday, September 8th**
+##### **Wednesday, August 29th — Activities Fair & Application Opens**
 
-Interviews will be rolling with all ending on **Friday, September 14th**. The first meeting will be **Saturday, September 15th**.
+##### **Friday, September 1st — Info Session I (5PM in Carr)**
+
+##### **Saturday, September 2nd — Info Session II (5PM in Carr)**
+
+##### **Wednesday, September 5th — Application Priority Deadline**
+
+##### **Saturday, September 8th — Application Hard Deadline**
+
+##### **Friday, September 14th — Interviews End**
+
+##### **Saturday, September 15th — Kickoff Dinner**
+
+##### **Saturday, September 22nd — First Discussion Meeting**
+
+<br>
+
+Check back here on August 29th for a link to the application.
 
 <br>
 
