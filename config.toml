@@ -76,10 +76,12 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "Join our mailing list!"
-  firstButtonLink = "http://eepurl.com/cecM01"
-  secondButtonText = "Find us on Facebook!"
-  secondButtonLink = "https://www.facebook.com/effective.altruism.duke/"
+  
+  firstButtonText = "Arete Fellowship"
+  firstButtonLink = "http://eaduke.org/faq/"
+  secondButtonText = "Join our mailing list!"
+  secondButtonLink = "http://eepurl.com/cecM01"
+  
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
