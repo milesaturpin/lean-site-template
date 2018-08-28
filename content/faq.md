@@ -16,6 +16,9 @@ Duke Effective Altruism would like to invite applications for the Arete Fellowsh
 
 ### What is EA?
 ---------------
+
+Princeton philosopher Peter Singer laid much of the theoretical groundwork that supports the Effective Altruism movement. You can find his TED talk on the Why and How of Effective Altruism **here**(https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism).
+
 EA is both a philosophy and a network of people, centered around the desire to find ways to do the most good possible given the world’s limited resources and our own limited time, energy, and talents. 
 We think something incredible is true: there are extraordinary opportunities to change the world that most people don’t realize exist. There are important insights that can enable rationally-minded people to increase their impact by many orders of magnitude.
 
