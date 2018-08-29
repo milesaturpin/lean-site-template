@@ -97,10 +97,10 @@ All applicants must complete an application and, if selected, an interview. Inte
 ##### **Wednesday, August 29th — Activities Fair & Application Opens** 
 <br>
 
-##### **Friday, September 1st — Info Session I (5pm in Carr 106)**
+##### **Friday, August 31st — Info Session I (5pm in Carr 106)**
 <br>
 
-##### **Saturday, September 2nd — Info Session II (5pm in Carr 106)** 
+##### **Saturday, September 1st — Info Session II (5pm in Carr 106)** 
 <br>
 
 ##### **Wednesday, September 5th — Application Priority Deadline** 
