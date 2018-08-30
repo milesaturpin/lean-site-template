@@ -8,6 +8,8 @@ draft: false
 
 <br>
 
+NOTE: Link to application at bottom of page.
+
 ### Introduction
 ----------------
 Some efforts to improve the world can be much more impactful than others. Smallpox eradication, the abolitionist movement, development of germ theory, and the Green Revolution are just a few examples which illustrate what's possible when people come together to solve pressing problems. But those projects are few and far between. At the other end of the spectrum, many well-intended initiatives are ineffective or even counterproductive. Discerning between the good and bad is the perennial challenge every generation faces, and yet the coming century is poised to be the most consequential yet: how we maneuver such challenges over the next hundred years may drastically affect the trajectory of humankind.
