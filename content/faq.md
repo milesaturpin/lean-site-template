@@ -94,7 +94,7 @@ The Fellowship takes place over 9 weeks. Weeks 1-7 have a set curriculum, week 8
 
 All applicants must complete an application and, if selected, an interview. Interviews and admission will be rolling. 
 
-##### **Wednesday, August 29th — Activities Fair & Application Opens** 
+##### ~~**Wednesday, August 29th — Activities Fair & Application Opens**~~
 <br>
 
 ##### **Friday, August 31st — Info Session I (5pm in Carr 106)**
