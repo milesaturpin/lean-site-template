@@ -8,7 +8,7 @@ draft: false
 
 <br>
 
-NOTE: Link to application at bottom of page.
+*NOTE: Link to application at bottom of page.*
 
 ### Introduction
 ----------------
