@@ -118,7 +118,9 @@ All applicants must complete an application and, if selected, an interview. Inte
 ##### **Saturday, September 22nd — First Discussion Meeting**  
 <br>
 
-Check back here on August 29th for a link to the application, or [**put down your email**](http://eepurl.com/dFilSD) and we'll let you know when it's live!
+## [**Begin Application**](https://bit.ly/2wEUrO3)
+<br>
+You can sign up to receive updates on the Fellowship [**here**](http://eepurl.com/dFilSD), or feel free to reach out to DukeAreteFellowship@gmail.com for questions.
 <br>
 
 ---
