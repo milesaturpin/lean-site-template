@@ -93,7 +93,7 @@ The Fellowship takes place over 9 weeks. Weeks 1-7 have a set curriculum, week 8
 ------------------------
 
 All applicants must complete an application and, if selected, an interview. Interviews and admission will be rolling. 
-
+<br>
 ##### ~~**Wednesday, August 29th — Activities Fair & Application Opens**~~
 <br>
 
@@ -118,7 +118,7 @@ All applicants must complete an application and, if selected, an interview. Inte
 ##### **Saturday, September 22nd — First Discussion Meeting**  
 <br>
 
-## [**Begin Application**](https://bit.ly/2wEUrO3)
+## [**Begin Application**](https://dukearete.typeform.com/to/dvnR6r)
 <br>
 You can sign up to receive updates on the Fellowship [**here**](http://eepurl.com/dFilSD), or feel free to reach out to DukeAreteFellowship@gmail.com for questions.
 <br>
