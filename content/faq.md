@@ -105,7 +105,7 @@ All applicants must complete an application and, if selected, an interview. Inte
 ##### ~~**Saturday, September 1st — Info Session II (5pm in Carr 106)**~~
 <br>
 
-##### **Wednesday, September 5th — Application Priority Deadline**
+##### ~~**Wednesday, September 5th — Application Priority Deadline**~~
 <br>
 
 ##### **Saturday, September 8th — Application Hard Deadline**
