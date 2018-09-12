@@ -108,7 +108,7 @@ All applicants must complete an application and, if selected, an interview. Inte
 ##### ~~**Wednesday, September 5th — Application Priority Deadline**~~
 <br>
 
-##### **Saturday, September 8th — Application Hard Deadline**
+##### ~~**Saturday, September 8th — Application Hard Deadline**~~
 <br>
 
 ##### **Friday, September 14th — Interviews End**
