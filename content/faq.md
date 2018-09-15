@@ -8,7 +8,7 @@ draft: false
 
 <br>
 
-## **_The application for Fall 2018 has closed. Put down you email [**here**](http://eepurl.com/dHhCgj) to get notified when we reopen the application._**
+## _**The application for Fall 2018 has closed. Put down you email [**here**](http://eepurl.com/dHhCgj) to get notified when we reopen the application.**_
 
 <br>
 
