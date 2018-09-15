@@ -8,7 +8,9 @@ draft: false
 
 <br>
 
-*NOTE: Link to application at bottom of page.*
+## **_The Application has closed for Fall 2018_**
+
+<br>
 
 ### Introduction
 ----------------
@@ -96,19 +98,19 @@ The Fellowship takes place over 9 weeks. Weeks 1-7 have a set curriculum, week 8
 
 All applicants must complete an application and, if selected, an interview. Interviews and admission will be rolling.
 <br>
-##### ~~**Wednesday, August 29th — Activities Fair & Application Opens**~~
+##### **Wednesday, August 29th — Activities Fair & Application Opens**
 <br>
 
-##### ~~**Friday, August 31st — Info Session I (5pm in Carr 106)**~~
+##### **Friday, August 31st — Info Session I (5pm in Carr 106)**
 <br>
 
-##### ~~**Saturday, September 1st — Info Session II (5pm in Carr 106)**~~
+##### **Saturday, September 1st — Info Session II (5pm in Carr 106)**
 <br>
 
-##### ~~**Wednesday, September 5th — Application Priority Deadline**~~
+##### **Wednesday, September 5th — Application Priority Deadline**
 <br>
 
-##### ~~**Saturday, September 8th — Application Hard Deadline**~~
+##### **Saturday, September 8th — Application Hard Deadline**
 <br>
 
 ##### **Friday, September 14th — Interviews End**
@@ -120,7 +122,7 @@ All applicants must complete an application and, if selected, an interview. Inte
 ##### **Saturday, September 22nd — First Discussion Meeting**
 <br>
 
-## [**Begin Application**](https://dukearete.typeform.com/to/dvnR6r)
+[//]: # (## [**Begin Application**]()
 <br>
 You can sign up to receive updates on the Fellowship [**here**](http://eepurl.com/dFilSD), or feel free to reach out to DukeAreteFellowship@gmail.com for questions.
 <br>
