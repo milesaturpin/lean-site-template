@@ -8,7 +8,7 @@ draft: false
 
 <br>
 
-## **_The Application has closed for Fall 2018_**
+## **_The application for Fall 2018 has closed. Put down you email [**here**](http://eepurl.com/dHhCgj) to get notified when we reopen the application._**
 
 <br>
 
@@ -124,7 +124,8 @@ All applicants must complete an application and, if selected, an interview. Inte
 
 [//]: # (## [**Begin Application**]()
 <br>
-You can sign up to receive updates on the Fellowship [**here**](http://eepurl.com/dFilSD), or feel free to reach out to DukeAreteFellowship@gmail.com for questions.
+
+[//]: # (You can sign up to receive updates on the Fellowship [**here**](, or feel free to reach out to DukeAreteFellowship@gmail.com for questions.)
 <br>
 
 ---
