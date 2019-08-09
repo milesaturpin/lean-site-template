@@ -140,7 +140,7 @@ All applicants must complete an application and, if selected, an interview. Inte
 [//]: # (## [**Begin Application**]()
 <br>
 
-[//]: # (You can sign up to receive updates on the Fellowship [**here**](, or feel free to reach out to DukeAreteFellowship@gmail.com for questions.)
+[//]:  (You can sign up to receive updates on the Fellowship [**here**](, or feel free to reach out to DukeAreteFellowship@gmail.com for questions.)
 <br>
 
 ---
