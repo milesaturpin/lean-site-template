@@ -45,9 +45,9 @@ The organizers of Duke EA are majoring and minoring in computer science, biology
 ### Fellowship Structure
 ------------------------
 
-The Fellowship takes place over the course of 9 weeks. Each week consists of a set of study resources and a discussion meeting. The resources take approximately one hour to complete and must be finished in preparation for the weekly discussion. Additionally, Fellows will be able to schedule a time for 1-on-1 career consulting anytime after week 3, though such consultation may be most valuable after week 7.
+The Fellowship takes place over the course of 9 weeks. Each week consists of a set of study resources and a discussion meeting. The resources take approximately one hour to complete and must be finished in preparation for the weekly discussion. Additionally, Fellows will be able to schedule a time for 1-on-1 career consulting anytime after week 6.
 
-*Time and location of the discussion meeting is TBA. For reference, last year's discussion meeting took place on Saturdays from 12:30pm - 2:00pm at West Union (the Brodhead Center).*
+*Time and location of the discussion meeting is TBA. For reference, last year's discussion meeting took place on Saturdays from 12:30pm - 2:00pm in West Union (the Brodhead Center).*
 
 <!-- ##### **Time: Saturdays @12:30pm - 2:00pm**
 
@@ -140,7 +140,11 @@ All applicants must complete an application and, if selected, an interview. Inte
 [//]: # (## [**Begin Application**]()
 <br>
 
-[//]:  (You can sign up to receive updates on the Fellowship [**here**](, or feel free to reach out to DukeAreteFellowship@gmail.com for questions.)
-<br>
+<!-- http://eepurl.com/cecM01 -->
+
+### You can sign up to receive updates on the Fellowship [**here**](http://eepurl.com/cecM01), or feel free to reach out to DukeAreteFellowship@gmail.com for questions.
+
+<!-- [//]: # (You can sign up to receive updates on the Fellowship [**here**](, or feel free to reach out to DukeAreteFellowship@gmail.com for questions.)
+<br> -->
 
 ---
