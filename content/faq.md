@@ -6,11 +6,11 @@ draft: false
 
 ![image](/img/color_logo_with_background.png)
 
-<br>
+<!-- <br>
 
 ## _**The application for Fall 2018 has closed.  [Get notified](http://eepurl.com/dHhCgj) when we reopen the application.**_
 
-<br>
+<br> -->
 
 ### Introduction
 ----------------
@@ -45,12 +45,21 @@ The organizers of Duke EA are majoring and minoring in computer science, biology
 ### Fellowship Structure
 ------------------------
 
-The Fellowship takes place over the course of 9 weeks. Each week consists of a set of study resources and a lunch meeting. The resources take approximately one hour to complete and must be finished in preparation for the weekly discussion. Additionally, Fellows will be able to schedule a time for 1-on-1 career consulting anytime after week 3, though such consultation may be most valuable after week 7. All of this is flexible.
+The Fellowship takes place over the course of 9 weeks. Each week consists of a set of study resources and a discussion meeting. The resources take approximately one hour to complete and must be finished in preparation for the weekly discussion. Additionally, Fellows will be able to schedule a time for 1-on-1 career consulting anytime after week 3, though such consultation may be most valuable after week 7.
 
-##### **Time: Saturdays @12:30pm - 2:00pm**
+*Time and location of the discussion meeting is TBA. For reference, last year's discussion meeting took place on Saturdays from 12:30pm - 2:00pm at West Union (the Brodhead Center).*
+
+<!-- ##### **Time: Saturdays @12:30pm - 2:00pm**
 
 ##### **Location: West Union (Brodhead Center)**
-<br>
+<br> -->
+
+### Community Building
+----------------------
+
+Along with communication of information, one of the primary goals of the fellowship is to build community within the class of fellows. To this end, we plan to hold a **two-night retreat** which will feature community building, talks, and in-depth discussion. This will likely take place from September 27-29, leaving Friday evening and returning Sunday afternoon. All costs are covered.
+
+Following the retreat, there will be many social events during the course of the program.
 
 ### Expectations
 ----------------
@@ -60,36 +69,39 @@ We expect fellows to embody these four traits:
 - *Enthusiasm to do good better*
 - *Openness to novel ideas*
 - *A scientific mindset*
-- *Action orientation*
+- *Action oriented*
 
 A central part of the EA mindset is taking seriously ideas that may seem counterintuitive or even uncomfortable. Some of the most exciting opportunities to do good exist precisely because they are not mainstream and remain unexploited. As such, fellows should expect to have their beliefs and plans challenged.
 
 During the Fellowship we will cover a wide range of fields and methodologies. No subject knowledge is required—the program is designed to be self-contained, so fellows should not worry if they are not familiar with, say, philosophy, economics, synthetic biology, or artificial intelligence. EA is cerebral in some ways, but this Fellowship is not just a fun intellectual exercise—we hope fellows will be eager to incorporate these ideas into their daily lives and long-term plans.
 
-Duke EA’s limited resources include time; we expect Fellows to make the most of it. Participants should treat the Fellowship like a house course with one hour of homework and an hour and a half of “class-time” per week. To complete the Fellowship, fellows must also write a 400-500 word blog post for Duke Effective Altruism on a topic of their choice.
+Participants should treat the Fellowship like a house course with one hour of homework and an hour and a half of “class-time” per week. To complete the Fellowship, fellows must also write a 500 word blog post on a topic of their choice.
+
 
 ### Attendance
 --------------
 
 Fellows must complete materials and attend meetings weekly. If a fellow cannot attend a meeting, they should let Duke EA organizers know beforehand, and we will try to set up another time to discuss the week’s materials 1-on-1.
 
+We expect the retreat to play an important role in the fellowship, and so preference will be given to applicants who are able to attend the retreat. Fellows are required to attend at least half of the social events during the semester, though most attend them all!
+
 ### Upon Completion of the Fellowship
 -------------------------------------
 
-Fellows may list the Fellowship on their résumé or CV, and are invited to join Duke Effective Altruism. Additionally, all Arete alumni can request a peer reference or letter of recommendation from their Fellowship leaders at any time and are encouraged to take advantage of this. Fellowship leaders are dedicated to helping alumni have the opportunities that will make them more effective altruists throughout their lives.
+Fellows may list the Fellowship on their résumé, and are invited to join Duke Effective Altruism. Additionally, all Arete alumni can request a peer reference or letter of recommendation from their Fellowship leaders at any time and are encouraged to take advantage of this. Fellowship leaders are dedicated to helping alumni have the opportunities that will make them more effective altruists throughout their lives.
 
 ### Curriculum Overview (subject to small changes)
 --------------------------------------------------
 
 The Fellowship takes place over 9 weeks. Weeks 1-7 have a set curriculum, week 8 is a discussion of Fellow-submitted topics, and our ninth and final week will be graduation and debrief.
 
-1. EA-daimonia: An Introduction to Effective Altruism
-2. The Science of Doing Good
-3. Cause Evaluation
-4. Causes I: Global Poverty, Global Health & Animal Welfare
-5. Causes II: Movement-Building & Climate Change
-6. Causes III: The Far Future & Existential/Global Catastrophic Risks
-7. Those 80,000 Hours...
+1. An Introduction to Effective Altruism
+2. Cause Prioritization & The Science of Doing Good (discussion during the retreat)
+3. Causes I: Global Poverty, Global Health & Animal Welfare
+4. Causes II: Movement-Building & Climate Change
+5. Causes III: The Far Future & Existential/Global Catastrophic Risks
+6. 80,000 Hours - Having Impact in your Career
+7. EA in Action
 8. Fellow-Chosen Topics
 9. Graduation & Debrief
 
@@ -98,28 +110,31 @@ The Fellowship takes place over 9 weeks. Weeks 1-7 have a set curriculum, week 8
 
 All applicants must complete an application and, if selected, an interview. Interviews and admission will be rolling.
 <br>
-##### **Wednesday, August 29th — Activities Fair & Application Opens**
+##### **Wednesday, August 28 — Activities Fair & Application Opens**
 <br>
 
-##### **Friday, August 31st — Info Session I (5pm in Carr 106)**
+##### **Info Sessions TBA**
 <br>
 
-##### **Saturday, September 1st — Info Session II (5pm in Carr 106)**
+<!-- ##### **Friday, August 31 — Info Session I (5pm in Carr 106)**
 <br>
 
-##### **Wednesday, September 5th — Application Priority Deadline**
+##### **Saturday, September 1 — Info Session II (5pm in Carr 106)**
+<br> -->
+
+##### **Wednesday, September 4 — Application Priority Deadline**
 <br>
 
-##### **Saturday, September 8th — Application Hard Deadline**
+##### **Saturday, September 7 — Application Hard Deadline**
 <br>
 
-##### **Friday, September 14th — Interviews End**
+##### **Friday, September 13 — Interviews End**
 <br>
 
-##### **Saturday, September 15th — Kickoff Dinner**
+##### **Saturday, September 14 — Kickoff Dinner**
 <br>
 
-##### **Saturday, September 22nd — First Discussion Meeting**
+##### **Saturday, September 21 — First Discussion Meeting**
 <br>
 
 [//]: # (## [**Begin Application**]()
