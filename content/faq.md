@@ -12,7 +12,7 @@ draft: false
 
 <br> -->
 
-## **Sign up to receive updates on the Fellowship [**here**](http://eepurl.com/cecM01), or feel free to reach out to DukeAreteFellowship@gmail.com for questions.**
+## Sign up to receive updates on the Fellowship [**here**](http://eepurl.com/cecM01), or feel free to reach out to DukeAreteFellowship@gmail.com for questions.
 <br>
 
 ### Introduction
@@ -145,7 +145,7 @@ All applicants must complete an application and, if selected, an interview. Inte
 
 <!-- http://eepurl.com/cecM01 -->
 
-### **Sign up to receive updates on the Fellowship [**here**](http://eepurl.com/cecM01), or feel free to reach out to DukeAreteFellowship@gmail.com for questions.**
+## Sign up to receive updates on the Fellowship [**here**](http://eepurl.com/cecM01), or feel free to reach out to DukeAreteFellowship@gmail.com for questions.
 <br>
 
 <!-- [//]: # (You can sign up to receive updates on the Fellowship [**here**](, or feel free to reach out to DukeAreteFellowship@gmail.com for questions.)
