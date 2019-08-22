@@ -62,7 +62,6 @@ The Fellowship takes place over the course of 9 weeks. Each week consists of a s
 
 Along with communication of information, one of the primary goals of the fellowship is to build community within the class of fellows. To this end, the fellowship will feature a large number of social events including dinners, game nights, and parties. Food, transportation, and activity costs will be covered.
 
-
 ### Expectations
 ----------------
 
@@ -83,9 +82,7 @@ Participants should treat the Fellowship like a house course with one hour of ho
 ### Attendance
 --------------
 
-Fellows must complete materials and attend meetings weekly. If a fellow cannot attend a meeting, they should let Duke EA organizers know beforehand, and we will try to set up another time to discuss the week’s materials 1-on-1.
-
-We expect the retreat to play an important role in the fellowship, and so preference will be given to applicants who are able to attend the retreat. Fellows are required to attend at least half of the social events during the semester, though most attend them all!
+Fellows must complete materials and attend meetings weekly. If a fellow cannot attend a meeting, they should let Duke EA organizers know beforehand, and we will try to set up another time to discuss the week’s materials 1-on-1. Fellows are required to attend at least half of the social events during the semester, though most attend them all!
 
 ### Upon Completion of the Fellowship
 -------------------------------------
@@ -98,7 +95,7 @@ Fellows may list the Fellowship on their résumé, and are invited to join Duke 
 The Fellowship takes place over 9 weeks. Weeks 1-7 have a set curriculum, week 8 is a discussion of Fellow-submitted topics, and our ninth and final week will be graduation and debrief.
 
 1. An Introduction to Effective Altruism
-2. Cause Prioritization & The Science of Doing Good (discussion during the retreat)
+2. Cause Prioritization & The Science of Doing Good
 3. Causes I: Global Poverty, Global Health & Animal Welfare
 4. Causes II: Movement-Building & Climate Change
 5. Causes III: The Far Future & Existential/Global Catastrophic Risks
