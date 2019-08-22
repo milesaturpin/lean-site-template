@@ -60,9 +60,8 @@ The Fellowship takes place over the course of 9 weeks. Each week consists of a s
 ### Community Building
 ----------------------
 
-Along with communication of information, one of the primary goals of the fellowship is to build community within the class of fellows. To this end, we plan to hold a **two-night retreat**, which will feature board games, workshops, campfires, and in-depth discussion. This will likely take place from September 27-29, leaving Friday evening and returning Sunday afternoon. All costs are covered.
+Along with communication of information, one of the primary goals of the fellowship is to build community within the class of fellows. To this end, the fellowship will feature a large number of social events including dinners, game nights, and parties. Food, transportation, and activity costs will be covered.
 
-Social events following the retreat include dinners, game nights, and parties.
 
 ### Expectations
 ----------------
