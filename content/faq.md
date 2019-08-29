@@ -113,8 +113,8 @@ All applicants must complete an application and, if selected, an interview. Inte
 ##### **Wednesday, August 28 — Activities Fair & Application Opens**
 <br>
 
-##### **Info Sessions TBA**
-<br>
+<!-- ##### **Info Sessions TBA**
+<br> -->
 
 ##### **Friday, August 31 — Info Session I (5:30pm in Classroom Building 103)**
 <br>
@@ -137,7 +137,7 @@ All applicants must complete an application and, if selected, an interview. Inte
 ##### **Saturday, September 21 — First Discussion Meeting**
 <br>
 
-[//]: # (## [**Begin Application**](https://dukearete.typeform.com/to/Xeqwnp)
+## [**Begin Application**](https://dukearete.typeform.com/to/Xeqwnp)
 <br>
 
 <!-- http://eepurl.com/cecM01 -->
