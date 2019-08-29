@@ -78,6 +78,7 @@ During the Fellowship we will cover a wide range of fields and methodologies. No
 
 Participants should treat the Fellowship like a house course with one hour of homework and an hour and a half of “class-time” per week. To complete the Fellowship, fellows must also write a 500 word blog post on a topic of their choice.
 
+**While we want fellows to respect the commitment they are making to the Fellowship, we do not want to discourage good candidates from applying because they think they are too busy. The Fellowship should be manageable to do with all other activities and classes. In fact, we especially want to *encourage* busy people to apply, because being busy can be a sign that one is ambitious and willing to work hard.**
 
 ### Attendance
 --------------
@@ -115,11 +116,11 @@ All applicants must complete an application and, if selected, an interview. Inte
 ##### **Info Sessions TBA**
 <br>
 
-<!-- ##### **Friday, August 31 — Info Session I (5pm in Carr 106)**
+##### **Friday, August 31 — Info Session I (5:30pm in Classroom Building 103)**
 <br>
 
-##### **Saturday, September 1 — Info Session II (5pm in Carr 106)**
-<br> -->
+##### **Saturday, September 1 — Info Session II (2pm in Social Sciences 113)**
+<br>
 
 ##### **Wednesday, September 4 — Application Priority Deadline**
 <br>
@@ -136,8 +137,8 @@ All applicants must complete an application and, if selected, an interview. Inte
 ##### **Saturday, September 21 — First Discussion Meeting**
 <br>
 
-<!-- [//]: # (## [**Begin Application**]()
-<br> -->
+[//]: # (## [**Begin Application**](https://dukearete.typeform.com/to/Xeqwnp)
+<br>
 
 <!-- http://eepurl.com/cecM01 -->
 
