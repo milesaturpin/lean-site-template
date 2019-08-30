@@ -81,7 +81,9 @@ During the Fellowship we will cover a wide range of fields and methodologies. No
 
 Participants should treat the Fellowship like a house course with one hour of homework and an hour and a half of “class-time” per week. To complete the Fellowship, fellows must also write a 500 word blog post on a topic of their choice.
 
-**While we want fellows to respect the commitment they are making to the Fellowship, we do not want to discourage good candidates from applying because they think they are too busy. The Fellowship should be manageable to do with all other activities and classes. In fact, we especially want to *encourage* busy people to apply, because being busy can be a sign that one is ambitious and willing to work hard.**
+**While we want fellows to respect the commitment they are making to the Fellowship, we do not want to discourage good candidates from applying because they think they are too busy. Past Fellows have reported that the program is manageable to do with all other activities and classes.**
+
+<!-- In fact, we especially want to *encourage* busy people to apply, because being busy can be a sign that one is ambitious and willing to work hard. -->
 
 ### Attendance
 --------------
