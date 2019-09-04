@@ -110,6 +110,11 @@ The Fellowship takes place over 9 weeks. Weeks 1-7 have a set curriculum, week 8
 8. Fellow-Chosen Topics
 9. Graduation & Debrief
 
+### Hear what last year's Fellows had to say about the Fellowship
+-----------------------------------------------------------------
+
+> *The Arete Fellowship has been an invaluable part of my Duke career, and I cannot imagine what my time at Duke would look like without it. The fellowship provided me with a unique insight on how I can play a role in solving some of the world’s biggest problems, and challenged the ways in which I thought about the world and my place in it.* --- Thomas Huck, Class of 2022
+
 ### Timeline
 ------------------------
 
