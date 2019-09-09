@@ -6,16 +6,16 @@ draft: false
 
 ![image](/img/color_logo_with_background.png)
 
-<!-- <br>
-
-## _**The application for Fall 2018 has closed.  [Get notified](http://eepurl.com/dHhCgj) when we reopen the application.**_
-
-<br> -->
-
-## [**Begin Application**](https://dukearete.typeform.com/to/Xeqwnp)
 <br>
 
-## Sign up to receive updates on the Fellowship [**here**](http://eepurl.com/cecM01), or feel free to reach out to DukeAreteFellowship@gmail.com for questions.
+## _**The application for Fall 2019 has closed.  [Get notified](http://eepurl.com/cecM01) when we reopen the application.**_
+
+<br>
+
+<!-- ## [**Begin Application**](https://dukearete.typeform.com/to/Xeqwnp)
+<br> -->
+
+<!-- ## Sign up to receive updates on the Fellowship [**here**](http://eepurl.com/cecM01), or feel free to reach out to DukeAreteFellowship@gmail.com for questions. -->
 <br>
 
 ### Introduction
@@ -141,14 +141,14 @@ All applicants must complete an application and, if selected, an interview. Inte
 ##### **Friday, September 13 — Interviews End**
 <br>
 
-##### **Saturday, September 14 — Kickoff Dinner**
+##### **Friday, September 13 — Kickoff Dinner**
 <br>
 
 ##### **Saturday, September 21 — First Discussion Meeting**
 <br>
 
-## [**Begin Application**](https://dukearete.typeform.com/to/Xeqwnp)
-<br>
+<!-- ## [**Begin Application**](https://dukearete.typeform.com/to/Xeqwnp)
+<br> -->
 
 <!-- http://eepurl.com/cecM01 -->
 
