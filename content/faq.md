@@ -141,7 +141,7 @@ All applicants must complete an application and, if selected, an interview. Inte
 ##### **Friday, September 13 — Interviews End**
 <br>
 
-##### **Friday, September 13 — Kickoff Dinner**
+##### **Saturday, September 14 @ 6:30 PM — Kickoff Dinner**
 <br>
 
 ##### **Saturday, September 21 — First Discussion Meeting**
